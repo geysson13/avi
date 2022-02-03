@@ -2,7 +2,7 @@
 <html>
     
     <head>
-        <title>Actividades</title>
+        <title>Actividades23</title>
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
         <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
